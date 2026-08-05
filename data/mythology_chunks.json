@@ -1,0 +1,261 @@
+[
+  {
+    "id": "olympians_001",
+    "text": "The twelve Olympians are the major deities of the Greek pantheon who reside on Mount Olympus. They are Zeus, Hera, Poseidon, Demeter, Athena, Apollo, Artemis, Ares, Aphrodite, Hephaestus, Hermes, and either Hestia or Dionysus. These gods replaced the Titans as rulers of the cosmos after the Titanomachy.",
+    "source": "Hesiod - Theogony",
+    "category": "olympians",
+    "tags": ["olympians", "gods", "mount olympus", "pantheon"]
+  },
+  {
+    "id": "zeus_001",
+    "text": "Zeus is the king of the Olympian gods and ruler of Mount Olympus. He is the god of the sky, lightning, thunder, law, order, and justice. Zeus is the son of the Titans Cronus and Rhea. His siblings are Hera, Poseidon, Demeter, Hestia, and Hades. He overthrew his father Cronus and divided the world with his brothers: Zeus took the sky, Poseidon the sea, and Hades the underworld.",
+    "source": "Hesiod - Theogony",
+    "category": "olympians",
+    "tags": ["zeus", "king of gods", "sky", "lightning", "olympians"]
+  },
+  {
+    "id": "zeus_002",
+    "text": "Zeus fathered many children both with his wife Hera and with other goddesses and mortals. With Hera he fathered Ares, Hebe, and Hephaestus. With Metis he fathered Athena. With Leto he fathered Apollo and Artemis. With Maia he fathered Hermes. With Semele he fathered Dionysus. With Alcmene he fathered the hero Heracles. With Europa he fathered Minos, Rhadamanthus, and Sarpedon.",
+    "source": "Hesiod - Theogony",
+    "category": "olympians",
+    "tags": ["zeus", "children", "family", "olympians"]
+  },
+  {
+    "id": "hera_001",
+    "text": "Hera is the queen of the Olympian gods and goddess of marriage, women, childbirth, and family. She is the daughter of Cronus and Rhea, and both the sister and wife of Zeus. Hera is known for her jealousy toward Zeus's many lovers and illegitimate children, particularly Heracles whom she persecuted throughout his life. Her symbols include the peacock, cow, and pomegranate.",
+    "source": "Homer - Iliad",
+    "category": "olympians",
+    "tags": ["hera", "queen of gods", "marriage", "olympians"]
+  },
+  {
+    "id": "poseidon_001",
+    "text": "Poseidon is the god of the sea, storms, earthquakes, and horses. He is the son of Cronus and Rhea, and brother of Zeus and Hades. After the overthrow of the Titans, Poseidon received dominion over the seas. He dwells in an underwater palace and is known for his violent temper. He carries a trident as his symbol and is also called the Earth-Shaker for his ability to cause earthquakes.",
+    "source": "Homer - Odyssey",
+    "category": "olympians",
+    "tags": ["poseidon", "sea", "earthquakes", "trident", "olympians"]
+  },
+  {
+    "id": "athena_001",
+    "text": "Athena is the goddess of wisdom, warfare strategy, crafts, and reason. She was born fully grown and armored from the forehead of Zeus after he swallowed her mother Metis. Athena is a virgin goddess and one of the most powerful Olympians. She is the patron goddess of Athens and gifted the city the olive tree. Her symbols include the owl, olive tree, and aegis shield.",
+    "source": "Hesiod - Theogony",
+    "category": "olympians",
+    "tags": ["athena", "wisdom", "warfare", "athens", "olympians"]
+  },
+  {
+    "id": "apollo_001",
+    "text": "Apollo is the god of the sun, light, music, poetry, art, prophecy, truth, archery, plague, healing, and more. He is the son of Zeus and Leto and twin brother of Artemis. Apollo was born on the island of Delos. He is the most important oracle god and the Oracle of Delphi was his most sacred shrine. His symbols include the lyre, laurel wreath, ravens, dolphins, and the sun.",
+    "source": "Homeric Hymn to Apollo",
+    "category": "olympians",
+    "tags": ["apollo", "sun", "music", "prophecy", "delphi", "olympians"]
+  },
+  {
+    "id": "artemis_001",
+    "text": "Artemis is the goddess of the hunt, wilderness, wild animals, the moon, and chastity. She is the daughter of Zeus and Leto and twin sister of Apollo. Like her brother, she was born on Delos. Artemis is a virgin goddess who hunts with a bow and arrow. She is a protector of young girls and women in childbirth. Her symbols include the bow, arrows, stag, and crescent moon.",
+    "source": "Homeric Hymn to Artemis",
+    "category": "olympians",
+    "tags": ["artemis", "hunt", "moon", "wilderness", "olympians"]
+  },
+  {
+    "id": "ares_001",
+    "text": "Ares is the god of war, violence, and bloodshed. He is the son of Zeus and Hera. Unlike Athena who represents strategic warfare, Ares embodies the brutal and chaotic nature of war. He was often depicted as a lover of Aphrodite, with whom he had several children including Eros and Phobos. Ares was not particularly respected by the other Olympians and was often wounded in battle. His symbols include the spear, helmet, dog, and vulture.",
+    "source": "Homer - Iliad",
+    "category": "olympians",
+    "tags": ["ares", "war", "violence", "olympians"]
+  },
+  {
+    "id": "aphrodite_001",
+    "text": "Aphrodite is the goddess of love, beauty, pleasure, and procreation. According to Hesiod, she was born from the sea foam that arose when the severed genitals of Uranus were cast into the sea by Cronus. In Homer's version she is the daughter of Zeus and Dione. She was married to Hephaestus but had a famous love affair with Ares. Her symbols include the dove, rose, myrtle, and the scallop shell.",
+    "source": "Hesiod - Theogony",
+    "category": "olympians",
+    "tags": ["aphrodite", "love", "beauty", "olympians"]
+  },
+  {
+    "id": "hephaestus_001",
+    "text": "Hephaestus is the god of fire, metalworking, forges, and craftsmanship. He is the son of Zeus and Hera, though some accounts say Hera bore him alone without a father. He was thrown from Mount Olympus either by Zeus or Hera and became lame as a result. Despite his physical disability, he is the master craftsman of the gods, having forged the armor of Achilles, the palaces of the Olympians, and the chains that held Prometheus.",
+    "source": "Homer - Iliad",
+    "category": "olympians",
+    "tags": ["hephaestus", "fire", "craftsmanship", "forge", "olympians"]
+  },
+  {
+    "id": "hermes_001",
+    "text": "Hermes is the messenger of the gods and deity of trade, thieves, travelers, sports, athletes, border crossings, guide of souls to the underworld, and cunning. He is the son of Zeus and the Pleiad Maia. Hermes is known for his speed and cunning, wearing winged sandals and a winged helmet. He carries the caduceus, a staff with two entwined serpents. He was the guide of souls to the underworld and played tricks even as an infant when he stole Apollo's cattle.",
+    "source": "Homeric Hymn to Hermes",
+    "category": "olympians",
+    "tags": ["hermes", "messenger", "trade", "travel", "olympians"]
+  },
+  {
+    "id": "demeter_001",
+    "text": "Demeter is the goddess of the harvest, grain, agriculture, fertility, and the seasons. She is the daughter of Cronus and Rhea and sister of Zeus. Her most important myth is the abduction of her daughter Persephone by Hades. While searching for Persephone, Demeter neglected the earth causing famine. Eventually a compromise was reached: Persephone spends part of the year with Hades (winter) and part with Demeter (spring and summer). Her symbols include wheat, torch, and cornucopia.",
+    "source": "Homeric Hymn to Demeter",
+    "category": "olympians",
+    "tags": ["demeter", "harvest", "agriculture", "persephone", "seasons", "olympians"]
+  },
+  {
+    "id": "dionysus_001",
+    "text": "Dionysus is the god of wine, festivity, ecstasy, theater, and religious rites. He is the son of Zeus and the mortal Semele. When Hera tricked Semele into asking Zeus to reveal his true form, the sight killed her. Zeus saved the unborn Dionysus by sewing him into his thigh until birth. Dionysus is unique among Olympians for having a mortal mother. He is associated with the vine, ivy, theatrical masks, and the thyrsos staff.",
+    "source": "Hesiod - Theogony",
+    "category": "olympians",
+    "tags": ["dionysus", "wine", "theater", "ecstasy", "olympians"]
+  },
+  {
+    "id": "titans_001",
+    "text": "The Titans were the second generation of divine beings in Greek mythology, preceded by the Protogenoi (primordial gods) and succeeded by the Olympians. The twelve Titans were children of Uranus (Sky) and Gaia (Earth): Oceanus, Coeus, Crius, Hyperion, Iapetus, Theia, Rhea, Themis, Mnemosyne, Phoebe, Tethys, and Cronus. They ruled the cosmos during the Golden Age until overthrown by Zeus and the Olympians in the Titanomachy.",
+    "source": "Hesiod - Theogony",
+    "category": "titans",
+    "tags": ["titans", "cronus", "rhea", "titanomachy", "golden age"]
+  },
+  {
+    "id": "titans_002",
+    "text": "Cronus was the leader of the Titans and ruler of the cosmos during the Golden Age. He overthrew his father Uranus by castrating him with an adamantine sickle given to him by his mother Gaia. Cronus then swallowed each of his children by Rhea because a prophecy foretold that he would be overthrown by his own son. Rhea saved Zeus by wrapping a stone in swaddling clothes for Cronus to swallow, hiding the infant Zeus in Crete.",
+    "source": "Hesiod - Theogony",
+    "category": "titans",
+    "tags": ["cronus", "titans", "zeus", "rhea", "golden age"]
+  },
+  {
+    "id": "titanomachy_001",
+    "text": "The Titanomachy was the epic ten-year war between the Olympians led by Zeus and the Titans led by Cronus. Zeus freed his siblings from Cronus's stomach and also freed the Cyclopes and Hecatoncheires from Tartarus. The Cyclopes gave Zeus his thunderbolts, Poseidon his trident, and Hades his helmet of invisibility. With these weapons the Olympians defeated the Titans, who were then imprisoned in Tartarus. Only Atlas was given a different punishment: to hold up the sky for eternity.",
+    "source": "Hesiod - Theogony",
+    "category": "titans",
+    "tags": ["titanomachy", "war", "zeus", "titans", "olympians", "tartarus"]
+  },
+  {
+    "id": "hades_001",
+    "text": "Hades is the god of the underworld and ruler of the dead. He is the son of Cronus and Rhea and brother of Zeus and Poseidon. After the Titanomachy, Hades received dominion over the underworld. He is married to Persephone whom he abducted. Hades is not considered one of the twelve Olympians as he resides in the underworld rather than Mount Olympus. His name was rarely spoken and he was sometimes called Pluto meaning the wealthy one.",
+    "source": "Hesiod - Theogony",
+    "category": "underworld",
+    "tags": ["hades", "underworld", "dead", "persephone", "pluto"]
+  },
+  {
+    "id": "underworld_001",
+    "text": "The Greek underworld is the realm of the dead, ruled by Hades and Persephone. The dead must cross the River Styx, ferried by Charon the ferryman, who requires payment of an obol coin placed on the eyes or mouth of the deceased. The underworld contains several regions: Elysium for the heroic dead, the Asphodel Meadows for ordinary souls, and Tartarus for the wicked and the imprisoned Titans. The judges of the dead are Minos, Rhadamanthus, and Aeacus.",
+    "source": "Homer - Odyssey",
+    "category": "underworld",
+    "tags": ["underworld", "styx", "charon", "elysium", "tartarus", "hades"]
+  },
+  {
+    "id": "prometheus_001",
+    "text": "Prometheus was a Titan who stole fire from the gods and gave it to humanity. As punishment, Zeus chained him to a rock where an eagle would eat his liver each day, only for it to regenerate each night. Prometheus also gave humanity the arts of civilization. He had the gift of foresight and warned his brother Epimetheus not to accept gifts from Zeus. He was eventually freed by the hero Heracles.",
+    "source": "Hesiod - Theogony",
+    "category": "titans",
+    "tags": ["prometheus", "fire", "humanity", "punishment", "titans", "heracles"]
+  },
+  {
+    "id": "heracles_001",
+    "text": "Heracles (Hercules in Latin) is the greatest of Greek heroes, son of Zeus and the mortal Alcmene. Hera drove him to madness causing him to kill his own wife and children. As penance he was required to perform the Twelve Labors for King Eurystheus. These included slaying the Nemean Lion, killing the Lernaean Hydra, capturing the Erymanthian Boar, cleaning the Augean Stables, and capturing Cerberus from the underworld. After his death he was deified and became an Olympian.",
+    "source": "Apollodorus - The Library",
+    "category": "heroes",
+    "tags": ["heracles", "hercules", "twelve labors", "heroes", "zeus"]
+  },
+  {
+    "id": "odysseus_001",
+    "text": "Odysseus (Ulysses in Latin) is the king of Ithaca and one of the greatest heroes of the Trojan War. He is the protagonist of Homer's Odyssey which tells of his ten-year journey home after the fall of Troy. Odysseus is known for his cunning and intelligence rather than brute strength. He devised the Trojan Horse stratagem that ended the war. His journey home was made difficult by Poseidon who punished him for blinding his son, the Cyclops Polyphemus.",
+    "source": "Homer - Odyssey",
+    "category": "heroes",
+    "tags": ["odysseus", "ulysses", "troy", "odyssey", "ithaca", "heroes"]
+  },
+  {
+    "id": "achilles_001",
+    "text": "Achilles is the greatest Greek warrior of the Trojan War and the central figure of Homer's Iliad. He is the son of the mortal Peleus and the sea nymph Thetis. His mother dipped him in the River Styx to make him invulnerable, holding him by the heel which remained his only weak point. Achilles withdrew from battle after Agamemnon dishonored him by taking his prize Briseis. He returned to battle after his companion Patroclus was killed by Hector and ultimately slew Hector before himself being killed by an arrow from Paris guided by Apollo.",
+    "source": "Homer - Iliad",
+    "category": "heroes",
+    "tags": ["achilles", "troy", "iliad", "trojan war", "hector", "heroes"]
+  },
+  {
+    "id": "creation_001",
+    "text": "According to Hesiod's Theogony, the universe began with Chaos, a primordial void. From Chaos emerged Gaia (Earth), Tartarus (the Abyss), Eros (Love), Erebus (Darkness), and Nyx (Night). From Gaia and Uranus (Sky, whom Gaia herself brought forth) came the Titans, Cyclopes, and Hecatoncheires. This cosmogony establishes the genealogy of the gods from primordial forces through the Titans to the Olympians.",
+    "source": "Hesiod - Theogony",
+    "category": "creation",
+    "tags": ["creation", "chaos", "gaia", "uranus", "cosmogony", "primordial gods"]
+  },
+  {
+    "id": "trojan_war_001",
+    "text": "The Trojan War was a legendary conflict between the Greeks and the city of Troy. It began when Paris of Troy abducted Helen, wife of the Spartan king Menelaus. Menelaus called upon the Greek kings to help retrieve her. The war lasted ten years and involved gods taking sides: Hera, Athena, and Poseidon supported the Greeks while Aphrodite, Ares, and Apollo supported Troy. The war ended with the Greeks using the Trojan Horse stratagem devised by Odysseus to infiltrate and destroy Troy.",
+    "source": "Homer - Iliad",
+    "category": "myths",
+    "tags": ["trojan war", "troy", "helen", "paris", "menelaus", "odysseus"]
+  },
+  {
+    "id": "persephone_001",
+    "text": "Persephone is the goddess of spring and queen of the underworld. She is the daughter of Zeus and Demeter. Hades abducted her and took her to the underworld to be his queen. Demeter, devastated by her loss, caused the earth to become barren. Zeus intervened and negotiated her return, but because Persephone had eaten pomegranate seeds in the underworld she was required to spend part of each year there. Her time in the underworld represents winter, and her return brings spring.",
+    "source": "Homeric Hymn to Demeter",
+    "category": "myths",
+    "tags": ["persephone", "demeter", "hades", "underworld", "seasons", "pomegranate"]
+  },
+  {
+    "id": "perseus_001",
+    "text": "Perseus is a hero and the son of Zeus and the mortal Danae. He is famous for slaying Medusa, the Gorgon whose gaze turned people to stone. Aided by Athena and Hermes, Perseus received winged sandals, a reflective shield, and a bag to hold Medusa's head. He beheaded Medusa while looking at her reflection, and from her severed neck sprang the winged horse Pegasus. Perseus later used Medusa's head to rescue Andromeda from a sea monster.",
+    "source": "Apollodorus - The Library",
+    "category": "heroes",
+    "tags": ["perseus", "medusa", "gorgon", "danae", "andromeda", "heroes"]
+  },
+  {
+    "id": "minotaur_001",
+    "text": "The Minotaur was a creature with the head of a bull and the body of a man, born to Queen Pasiphae of Crete and a bull sent by Poseidon. King Minos imprisoned the Minotaur in the Labyrinth designed by the craftsman Daedalus. Athens was forced to send seven young men and seven maidens as tribute to Crete every nine years to be devoured by the Minotaur. The hero Theseus volunteered to go and slew the Minotaur with the help of Ariadne who gave him a thread to find his way out of the Labyrinth.",
+    "source": "Apollodorus - The Library",
+    "category": "myths",
+    "tags": ["minotaur", "theseus", "crete", "labyrinth", "daedalus", "minos"]
+  },
+  {
+    "id": "muses_001",
+    "text": "The nine Muses are goddesses of inspiration in literature, science, and the arts. They are daughters of Zeus and the Titaness Mnemosyne (Memory). The nine Muses are: Calliope (epic poetry), Clio (history), Erato (love poetry), Euterpe (music), Melpomene (tragedy), Polyhymnia (hymns), Terpsichore (dance), Thalia (comedy), and Urania (astronomy). They reside on Mount Helicon or Mount Parnassus and inspire creative mortals.",
+    "source": "Hesiod - Theogony",
+    "category": "muses",
+    "tags": ["muses", "inspiration", "arts", "poetry", "mnemosyne", "zeus"]
+  },
+  {
+    "id": "fates_001",
+    "text": "The three Fates or Moirai are goddesses who control the destiny of every mortal and immortal. They are Clotho who spins the thread of life, Lachesis who measures it, and Atropos who cuts it. Even the gods were subject to the Fates. They are daughters of Zeus and Themis according to Hesiod, though earlier accounts make them daughters of Nyx. Their Roman equivalents are the Parcae.",
+    "source": "Hesiod - Theogony",
+    "category": "minor_gods",
+    "tags": ["fates", "moirai", "destiny", "clotho", "lachesis", "atropos"]
+  },
+  {
+    "id": "muses_002",
+    "text": "Urania is the Muse of astronomy and celestial bodies. She is one of the nine Muses, daughters of Zeus and the Titaness Mnemosyne. Urania is depicted holding a celestial globe and a compass, studying the stars. Her name derives from the Greek word 'ouranos' meaning sky or heaven, referring to her domain over the stars and cosmos. She inspires those who study astronomy and the movements of the heavenly bodies. She is NOT the same as Uranus the primordial sky god, nor is she related to Aphrodite.",
+    "source": "Hesiod - Theogony",
+    "category": "muses",
+    "tags": ["urania", "muse", "astronomy", "stars", "muses", "zeus", "mnemosyne"]
+  },
+  {
+    "id": "muses_003",
+    "text": "Calliope is the Muse of epic poetry and eloquence, considered the greatest of the nine Muses. She is the daughter of Zeus and Mnemosyne. Calliope is the mother of Orpheus by the god Apollo or the Thracian king Oeagrus. She is depicted holding a writing tablet or scroll. She inspired Homer himself in composing the Iliad and the Odyssey.",
+    "source": "Hesiod - Theogony",
+    "category": "muses",
+    "tags": ["calliope", "muse", "epic poetry", "orpheus", "muses", "zeus", "mnemosyne"]
+  },
+  {
+    "id": "muses_004",
+    "text": "The nine Muses and their domains: Calliope governs epic poetry, Clio governs history, Erato governs love poetry, Euterpe governs music and lyric poetry, Melpomene governs tragedy, Polyhymnia governs sacred hymns, Terpsichore governs dance, Thalia governs comedy, and Urania governs astronomy. All nine are daughters of Zeus and the Titaness Mnemosyne, conceived during nine consecutive nights. They dwell on Mount Helicon or Mount Parnassus.",
+    "source": "Hesiod - Theogony",
+    "category": "muses",
+    "tags": ["muses", "calliope", "clio", "erato", "euterpe", "melpomene", "polyhymnia", "terpsichore", "thalia", "urania", "zeus", "mnemosyne"]
+  },
+  {
+    "id": "nymphs_001",
+    "text": "The Nereids are the fifty daughters of the sea god Nereus and the Oceanid Doris. They are sea nymphs who dwell in the Mediterranean Sea and assist sailors. The most famous Nereids are Thetis, mother of Achilles; Amphitrite, wife of Poseidon and queen of the sea; Galatea, loved by the Cyclops Polyphemus; and Psamathe, goddess of sand beaches. They are benevolent sea spirits who represent the sea's beautiful and gentle aspects.",
+    "source": "Hesiod - Theogony",
+    "category": "nymphs",
+    "tags": ["nereids", "nereus", "doris", "thetis", "amphitrite", "galatea", "nymphs", "sea"]
+  },
+  {
+    "id": "nymphs_002",
+    "text": "The Oceanids are the three thousand daughters of the Titans Oceanus and Tethys. They are water nymphs presiding over fresh water: rivers, springs, streams, clouds, and rain. Notable Oceanids include Metis (wisdom, first wife of Zeus), Mnemosyne (memory, mother of the Muses), Styx (goddess of the underworld river by which gods swear oaths), Doris (mother of the Nereids), Eurynome (mother of the Graces), and Clymene (mother of Prometheus and Atlas).",
+    "source": "Hesiod - Theogony",
+    "category": "nymphs",
+    "tags": ["oceanids", "oceanus", "tethys", "metis", "styx", "doris", "eurynome", "nymphs", "water"]
+  },
+  {
+    "id": "nymphs_003",
+    "text": "Thetis is a Nereid sea nymph, daughter of Nereus and Doris, and mother of the hero Achilles. She was courted by both Zeus and Poseidon but a prophecy foretold her son would surpass his father, so she was married to the mortal Peleus. She dipped her infant son Achilles in the River Styx to make him invulnerable, holding him by the heel. When Achilles was killed in the Trojan War, Thetis mourned him deeply.",
+    "source": "Homer - Iliad",
+    "category": "nymphs",
+    "tags": ["thetis", "nereid", "achilles", "peleus", "nymphs", "sea", "trojan war"]
+  },
+  {
+    "id": "nymphs_004",
+    "text": "Calypso is a nymph and daughter of the Titan Atlas, or in some accounts of Oceanus. She dwelt on the island of Ogygia where she kept the hero Odysseus for seven years, offering him immortality if he would stay. Zeus eventually ordered her through Hermes to release Odysseus so he could return home to Ithaca. Circe is another powerful nymph, daughter of the sun god Helios, who transformed Odysseus's men into swine on her island Aeaea but later helped him reach the underworld.",
+    "source": "Homer - Odyssey",
+    "category": "nymphs",
+    "tags": ["calypso", "circe", "odysseus", "nymphs", "ogygia", "helios", "odyssey"]
+  }
+]

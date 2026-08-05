@@ -1,0 +1,17 @@
+# LLM & AI
+ollama
+chromadb
+sentence-transformers
+
+# API
+fastapi
+uvicorn[standard]
+
+# Graph
+networkx
+
+# Utilities
+python-dotenv
+pydantic
+pytest
+httpx
