@@ -108,3 +108,7 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 **Evareene Tech** — [github.com/evareenetech](https://github.com/evareenetech)
 
 ---
+
+### 🎞️ Demo
+
+[▶ Watch the demo](docs/homer-demo.mp4)
