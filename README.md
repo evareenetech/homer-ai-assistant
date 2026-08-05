@@ -111,4 +111,6 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 ### 🎞️ Demo
 
-[▶ Watch the demo](docs/homer-demo.mp4)
+[(https://github.com/user-attachments/assets/b9730be9-deb2-4dc4-9291-ca85a3648722)](https://github.com/user-attachments/assets/b9730be9-deb2-4dc4-9291-ca85a3648722)
+
+---
