@@ -16,8 +16,8 @@ An AI-powered assistant that embodies Homer, the ancient Greek poet, guiding use
 
 ### 📦 Stack
 
-**Backend** — Python · FastAPI · Ollama (Llama 3 8B) · ChromaDB · sentence-transformers · NetworkX
-**Frontend** — React 19 · Vite · Tailwind CSS · D3.js · React Router
+**Backend** — Python · FastAPI · Ollama (Llama 3 8B) · ChromaDB · sentence-transformers · NetworkX  
+**Frontend** — React 19 · Vite · Tailwind CSS · D3.js · React Router  
 **Testing** — pytest · httpx (35 tests across unit, integration, and API layers)
 
 ---
@@ -93,7 +93,10 @@ homer-ai-assistant/
 
 ### 📚 Classical sources
 
-Homer — *Iliad*, *Odyssey* · Hesiod — *Theogony* · Homeric Hymns (*Apollo*, *Demeter*, *Hermes*, *Artemis*) · Apollodorus — *The Library*
+Homer — *Iliad*, *Odyssey*  
+Hesiod — *Theogony*  
+Homeric Hymns (*Apollo*, *Demeter*, *Hermes*, *Artemis*)  
+Apollodorus — *The Library*
 
 ---
 
